@@ -1,4 +1,4 @@
-# picos_2019
+# Team Blue Monkeys
 
 Website van Team Blue Monkeys 2019-2020.
 
