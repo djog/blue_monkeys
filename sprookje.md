@@ -1,6 +1,6 @@
 # Sprookje
 
-Er was eens een draak die rICHEL HEETiuerlku
+Er was eens een aap
 
 er was ook een piraat
 

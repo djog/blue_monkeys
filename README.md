@@ -2,13 +2,14 @@
 
 Website van Team Blue Monkeys 2019-2020.
 
-Naam    |GitHub naam|Taak
---------|-----------|----------------
-Annika  |           |
-Amaia   |           |
-Berber  |           |
-Nicolai |           |
-Rick    |           |
+Naam    |GitHub naam   |Taak
+--------|--------------|----------------
+Annika  |              |
+Amaia   |              |
+Berber  |              |
+Judith  |@supergeleider|
+Nicolai |              |
+Rick    |              |
 
 Rol         | zorgt ervoor dat ...               | bepaalt ...
 ------------|------------------------------------|------------------------------------------
