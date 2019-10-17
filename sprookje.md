@@ -1,6 +1,6 @@
 # Sprookje
 
-Er was eens een aap
+Er was eens een blauwe aap
 
 er was ook een piraat
 
