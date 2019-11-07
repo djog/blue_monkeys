@@ -23,3 +23,8 @@ SI          | iedereen een emailadres kan hebben | dat het wachtwoord geheim bli
 Wat                          | Download                                                     | YouTube
 -----------------------------|--------------------------------------------------------------|-------------------------------------
 Hoe de game clonen en runnen | [hier](http://richelbilderbeek.nl/blue_monkeys_20091003.mkv) | [hier](https://youtu.be/OMXpIbjd6Dk)
+
+## Links
+
+ * [git voor jonge tieners](https://github.com/richelbilderbeek/git_voor_jonge_tieners)
+ * [processing voor jonge tieners](https://github.com/richelbilderbeek/processing_voor_jonge_tieners)
