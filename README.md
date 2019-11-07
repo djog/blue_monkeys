@@ -6,7 +6,6 @@ Naam    |GitHub naam   |Taak
 --------|--------------|----------------
 Annika  |              |
 Amaia   |              |
-Berber  |              |
 Judith  |@supergeleider|
 Nicolai |              |
 Rick    |              |
